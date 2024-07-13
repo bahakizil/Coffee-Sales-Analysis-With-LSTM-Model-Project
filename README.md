@@ -1,6 +1,4 @@
-# Coffee Sales Analysis With LSTM Model Project
-
-Kahve Satış Tahmininde Derin Öğrenme: Günlük Satışların Analizi ve Geleceğin Öngörülmesi
+# Kahve Satış Tahmininde Derin Öğrenme: Günlük Satışların Analizi ve Geleceğin Öngörülmesi
 
 ## İçindekiler
 - [Proje Hakkında](#proje-hakkında)
