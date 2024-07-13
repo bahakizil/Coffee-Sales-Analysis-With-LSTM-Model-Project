@@ -47,7 +47,6 @@ Bu proje, kahve dükkanları için çeşitli faydalar sağlamaktadır:
 - **Pazarlama ve Satış Stratejileri:** Belirli zaman dilimlerinde özel kampanyalar düzenlenebilir ve müşteri davranışları analiz edilerek yeni ürünler tanıtılabilir.
 - **Stok Yönetimi:** Talep tahmini yapılabilir ve atık miktarı azaltılabilir.
 - **Operasyonel Verimlilik:** Yoğun satış dönemleri belirlenerek, çalışan vardiya planlamaları daha verimli hale getirilebilir ve operasyonel maliyetler düşürülebilir.
-- **Müşteri Memnuniyeti:** Müşterilere kişiselleştirilmiş hizmet sunulabilir ve sadakat programları geliştirilebilir.
 
 ## Gelecek Çalışmalar
 Gelecekte, bu proje üzerinde yapılabilecek iyileştirmeler şunları içermektedir:
